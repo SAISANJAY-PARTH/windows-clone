@@ -1,0 +1,1 @@
+A nostalgic recreation of the iconic Windows 95 operating system, meticulously crafted using HTML, CSS, and JavaScript. This project offers a functional web-based experience that captures the essence of the original interface.
